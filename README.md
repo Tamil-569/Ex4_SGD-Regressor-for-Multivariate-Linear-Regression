@@ -86,8 +86,10 @@ plt.show()
 ```
 
 ## Output:
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1336" height="736" alt="Screenshot 2026-02-05 111620" src="https://github.com/user-attachments/assets/5aa2310b-e20a-4fc1-8a04-d180142d50a9" />
+<img width="1211" height="568" alt="Screenshot 2026-02-05 111645" src="https://github.com/user-attachments/assets/4cd5994a-f117-4f01-ab1e-5f3797c27acc" />
+
+
 
 
 
